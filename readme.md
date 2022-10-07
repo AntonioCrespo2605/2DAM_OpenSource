@@ -1,0 +1,1 @@
+The code is open source but you cant delete any dinosaur of the app. TY
